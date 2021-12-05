@@ -1,9 +1,9 @@
 .loader1 {
   width: 30px;
   height: 30px;
-  background-color:grey;
+  background-color:#ecd23e;
   margin : 0 -40px;
-  border: 10px solid #ecd23e;
+  border: 10px solid grey;
   border-right: 10px solid white;
   border-radius: 50%;
   animation: spinIT 0.8s linear infinite;
