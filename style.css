@@ -14,7 +14,7 @@
 
 @keyframes spinIT {
   0% { transform: rotate(0deg); }
-  45% { border-right: 10px solid  #ecd23e;; }
+  10% { border-right: 10px solid  #ecd23e;; }
   100% { transform: rotate(360deg);}
   
 } 
@@ -32,7 +32,7 @@
 /*make it spin*/
 @keyframes spinIT2 {
   0% { transform: rotate(0deg); }
-  25% {  
+  20% {  
   border-left: 10px solid   #ecd23e;}
   100% { transform: rotate(360deg); }
  
